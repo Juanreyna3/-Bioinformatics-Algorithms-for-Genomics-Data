@@ -1,2 +1,2 @@
-# -Bioinformatics-Algorithms-for-Genomics-Data
+# Bioinformatics Algorithms for Genomics Data
 Developed algorithms to gain bioinformatic insights related to given genomic datasets
