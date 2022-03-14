@@ -82,11 +82,11 @@ def overlap(a, b, min_length=3):
             return len(a)-start
         start += 1  # move just past previous match
 
-
-
-
-
-
+        
+        
+        
+        
+        
 p = 'GCTGATCGATCGTACG';
 genome_file = 'chr1.GRCh38.excerpt.fasta'
 #genome_file = 'ERR266411_1.for_asm.fastq';       
@@ -97,35 +97,3 @@ occurrences = []
 
 dist = editDistance(t, p)
 print(dist)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
